@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Derong Jin, an undergraduate student at CUHK(SZ).
-<!-- - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me derongjin@link.cuhk.edu.cn
+# 👋 Hi, I’m Derong Jin
 
-<!---
-HuMathe/HuMathe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a Master’s student in Computer Science at the **University of Maryland** ([umd.edu](https://umd.edu/)), where I work at the intersection of computer vision, graphics, and audio‑visual machine learning.
+
+- 💻 Tech stack: Python · PyTorch · NumPy · CUDA · Blender · Matplotlib  
+- 📫 Reach me at: **djin77@umd.edu**  
+- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/derong-jin-663561256/) | Follow on [Twitter](https://twitter.com/DerongJin)
+
+---
+
+Feel free to explore my repos, open issues, or send me a note — I’m always up for new collaborations!
